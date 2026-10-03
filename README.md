@@ -8,6 +8,8 @@ Gosto de transformar processos manuais, planilhas e cálculos repetitivos em sis
 
 **Sistema de consolidação de tabelas**: uma aplicação web que reúne cálculos financeiros antes realizados em diferentes planilhas e gera demonstrativos em PDF.
 
+👉 [Veja as telas do sistema na vitrine](https://github.com/RafaelaSilva90/sistema-de-tabelas-vitrine)
+
 O sistema está em uso real por uma equipe e continua em evolução, contendo:
 
 - Login com Google e controle de acesso
